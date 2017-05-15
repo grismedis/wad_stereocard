@@ -1,6 +1,6 @@
 {
-  "name": "stereo-gallery-demo",
-  "description": "Demo of stereocard gallery in a-frame, WebVR",
+  "name": "stereo-viewer-demo",
+  "description": "Demo of stereocard viewer in a-frame, WebVR",
   "version": "0.0.1",
   "license": "MIT",
   "repository" :
