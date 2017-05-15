@@ -1,6 +1,6 @@
 {
-  "name": "stereo gallery demo",
-  "description": " Demo of stereocard gallery in a-frame, WebVR",
+  "name": "stereo-gallery-demo",
+  "description": "Demo of stereocard gallery in a-frame, WebVR",
   "version": "0.0.1",
   "license": "MIT",
   "repository" :
@@ -17,12 +17,5 @@
   "devDependencies": {
     "budo": "^7.0.0",
     "ghpages": "0.0.3"
-  },
-
-  "keywords": [
-    "aframe",
-    "stereocard",
-    "webvr",
-    "vr"
-  ]
+  }
 }
