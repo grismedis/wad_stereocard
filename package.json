@@ -1,17 +1,24 @@
 {
-  "name": "Stereo gallery Demo",
+  "name": "stereo gallery demo",
   "description": " Demo of stereocard gallery in a-frame, WebVR",
-  "version": "0.3.0",
+  "version": "0.0.1",
   "license": "MIT",
+  "repository" :
+  { "type" : "git",
+    "url" : "https://github.com/grismedis/wad_stereocard.git"
+  },
+
   "scripts": {
     "start": "budo --live --verbose --port 3000 --open",
     "deploy": "ghpages",
     "ghpages": "ghpages"
   },
+
   "devDependencies": {
     "budo": "^7.0.0",
     "ghpages": "0.0.3"
   },
+
   "keywords": [
     "aframe",
     "stereocard",
