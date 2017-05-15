@@ -1,6 +1,6 @@
 {
-  "name": "aframe-hello-world-boilerplate",
-  "description": "Boilerplate with A-Frame's 'Hello, World!' of WebVR.",
+  "name": "Stereo gallery Demo",
+  "description": " Demo of stereocard gallery in a-frame, WebVR",
   "version": "0.3.0",
   "license": "MIT",
   "scripts": {
@@ -14,9 +14,7 @@
   },
   "keywords": [
     "aframe",
-    "aframe-example",
-    "aframe-boilerplate",
-    "aframe-scene",
+    "stereocard",
     "webvr",
     "vr"
   ]
