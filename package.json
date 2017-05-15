@@ -3,6 +3,7 @@
   "description": "Demo of stereocard viewer in a-frame, WebVR",
   "version": "0.0.1",
   "license": "MIT",
+  "author": "Olga Dmitricenko",
   "repository" :
   { "type" : "git",
     "url" : "https://github.com/grismedis/wad_stereocard.git"
