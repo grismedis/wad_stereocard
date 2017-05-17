@@ -6,7 +6,7 @@ To see it live go to https://grismedis.github.io/wad_stereocard/ , A-frame comes
 ## Image
 The stereocard used in this example obtained from Dansk Film Institut (DFI) from [Flickr](https://www.flickr.com/photos/36461985@N08/albums/72157630126687930). Original author is [Peter Elfelt](https://en.wikipedia.org/wiki/Peter_Elfelt), on the image diplayed "Change of the royal guards by Amalieborg in Copenhagen, Denmark".
 
-### Installation
+## Installation
 
 First make sure you have Node installed.
 
@@ -21,7 +21,7 @@ To install the Node dependencies:
 
 To serve the site from a simple Node development server:
 
-    npm start
+    npm run start
 
 Then launch the site from your favourite browser:
 
