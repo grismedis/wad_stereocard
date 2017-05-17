@@ -1,5 +1,7 @@
 # Stereocard viewer demo
-This is a very basic example of [Stereogram/Stereocard](https://en.wikipedia.org/wiki/Stereoscopy) viewver with A-frame. It is based on [A-frame boilerplait](https://github.com/aframevr/aframe-boilerplate)
+This is a very basic example of [Stereogram/Stereocard](https://en.wikipedia.org/wiki/Stereoscopy) viewver with A-frame. It is based on [A-frame boilerplait](https://github.com/aframevr/aframe-boilerplate). 
+
+To see it live go to https://grismedis.github.io/wad_stereocard/ , A-frame comes with an amazing inspector - on all platforms hit [Ctrl + Alt + i] .
 
 ##Image
 The image used in this example obtained from Dansk Film Institut (DFI) from [Flickr](https://www.flickr.com/photos/36461985@N08/albums/72157630126687930). Original author is [Peter Elfelt](https://en.wikipedia.org/wiki/Peter_Elfelt), on the image diplayed "Change of the royal guards by Amalieborg in Copenhagen, Denmark".
